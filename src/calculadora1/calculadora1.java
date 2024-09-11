@@ -2,7 +2,7 @@ package calculadora1;
 import javax.swing.JOptionPane;
 public class calculadora1 {
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "Este es un programa que funciona\n\ncomo una especie de calculadora\n\ncapaz de realizar las 4 operaciones básicas\n\nSUMA, RESTA, PRODUCTO Y COCIENTE\n\nen este caso para 2 números");
+        JOptionPane.showMessageDialog(null, " ");
         String dato = "";
         int variable = 0;
         double n1 = 0, n2 = 0, res = 0;
